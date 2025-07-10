@@ -19,3 +19,8 @@ OUTPUT 1
 OUTPUT 2
 
 ![Image](https://github.com/user-attachments/assets/28300497-eac7-4ace-95f1-dec3ab47bd6c)
+
+output 4
+
+![Image](https://github.com/user-attachments/assets/0baf1574-b3e4-42e8-8901-f6f2fcce9e41)
+
